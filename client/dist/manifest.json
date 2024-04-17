@@ -1,0 +1,42 @@
+{
+  "icons": [
+    {
+      "src": "/assets/icons/icon_515x515.png",
+      "sizes": "515x515",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/icons/icon_385x385.png",
+      "sizes": "385x385",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/icons/icon_255x255.png",
+      "sizes": "255x255",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/icons/icon_190x190.png",
+      "sizes": "190x190",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/icons/icon_130x130.png",
+      "sizes": "130x130",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/icons/icon_95x95.png",
+      "sizes": "95x95",
+      "type": "image/png"
+    }
+  ],
+  "name": "Text Editor",
+  "short_name": "Text",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "/",
+  "description": "Save text here!",
+  "background_color": "#FFB6C1",
+  "theme_color": "#FFB6C1"
+}
