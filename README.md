@@ -24,8 +24,7 @@ To run the project locally, follow these steps:
 5. Start the application with `npm start:dev`.
 
 ## Screenshot
-![Webpack-App Screenshot video](../webpack-app/Assets/images/webapp-screenshot.gif)
-
+![ReadMe Gen Screenshot](./client/images/webapp-screenshot.gif)
 
 
 ## Usage
