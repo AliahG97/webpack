@@ -24,12 +24,7 @@ To run the project locally, follow these steps:
 5. Start the application with `npm start:dev`.
 
 ## Screenshot
-![ReadMe Gen Screenshot](../webpack-app/Assets/images/Screenshot-jate-1.png)
-![ReadMe Gen Screenshot](../webpack-app/Assets/images/Screenshot-jate-2.png)
-![ReadMe Gen Screenshot](../webpack-app/Assets/images/Screenshot-jate-3.png)
-![ReadMe Gen Screenshot](../webpack-app/Assets/images/Screenshot-jate-4.png)
-![ReadMe Gen Screenshot](../webpack-app/Assets/images/Screenshot-jate-5.png)
-![ReadMe Gen Screenshot](../webpack-app/Assets/images/Screenshot-jate-6.png)
+![Webpack-App Screenshot video](../webpack-app/Assets/images/webapp-screenshot.gif)
 
 
 
